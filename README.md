@@ -1,2 +1,2 @@
-# eisaev.github.io
-Test page
+# eisaev's blog
+There is absolutely nothing interesting here...
