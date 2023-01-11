@@ -1,2 +1,2 @@
-# eisaev's blog
+## The Main Page
 There is absolutely nothing interesting here...
